@@ -1,0 +1,40 @@
+<div id='ant-diayn-curriculum' class='tab-pane fade in'>
+  <h3>Ant, DIAYN, Curriculum</h3>
+  <p>Options trained with curriculum context distribution:<p>
+<center>
+<video width='320' height='240' controls autoplay loop>
+  <source src='videos/ant/diayn/curriculum/mode50.mp4' type='video/mp4'>
+Your browser does not support the video tag.
+</video><video width='320' height='240' controls autoplay loop>
+  <source src='videos/ant/diayn/curriculum/mode42.mp4' type='video/mp4'>
+Your browser does not support the video tag.
+</video><video width='320' height='240' controls autoplay loop>
+  <source src='videos/ant/diayn/curriculum/mode14.mp4' type='video/mp4'>
+Your browser does not support the video tag.
+</video>
+<video width='320' height='240' controls autoplay loop>
+  <source src='videos/ant/diayn/curriculum/mode48.mp4' type='video/mp4'>
+Your browser does not support the video tag.
+</video><video width='320' height='240' controls autoplay loop>
+  <source src='videos/ant/diayn/curriculum/mode61.mp4' type='video/mp4'>
+Your browser does not support the video tag.
+</video><video width='320' height='240' controls autoplay loop>
+  <source src='videos/ant/diayn/curriculum/mode56.mp4' type='video/mp4'>
+Your browser does not support the video tag.
+</video>
+<video width='320' height='240' controls autoplay loop>
+  <source src='videos/ant/diayn/curriculum/mode55.mp4' type='video/mp4'>
+Your browser does not support the video tag.
+</video><video width='320' height='240' controls autoplay loop>
+  <source src='videos/ant/diayn/curriculum/mode11.mp4' type='video/mp4'>
+Your browser does not support the video tag.
+</video><video width='320' height='240' controls autoplay loop>
+  <source src='videos/ant/diayn/curriculum/mode3.mp4' type='video/mp4'>
+Your browser does not support the video tag.
+</video>
+<video width='320' height='240' controls autoplay loop>
+  <source src='videos/ant/diayn/curriculum/mode52.mp4' type='video/mp4'>
+Your browser does not support the video tag.
+</video>
+</center>
+</div>

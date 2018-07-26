@@ -1,0 +1,40 @@
+<div id='cheetah-vic-curriculum' class='tab-pane fade in'>
+  <h3>Cheetah, VIC, Curriculum</h3>
+  <p>Options trained with curriculum context distribution:<p>
+<center>
+<video width='320' height='240' controls autoplay loop>
+  <source src='videos/cheetah/vic/curriculum/mode12.mp4' type='video/mp4'>
+Your browser does not support the video tag.
+</video><video width='320' height='240' controls autoplay loop>
+  <source src='videos/cheetah/vic/curriculum/mode22.mp4' type='video/mp4'>
+Your browser does not support the video tag.
+</video><video width='320' height='240' controls autoplay loop>
+  <source src='videos/cheetah/vic/curriculum/mode5.mp4' type='video/mp4'>
+Your browser does not support the video tag.
+</video>
+<video width='320' height='240' controls autoplay loop>
+  <source src='videos/cheetah/vic/curriculum/mode0.mp4' type='video/mp4'>
+Your browser does not support the video tag.
+</video><video width='320' height='240' controls autoplay loop>
+  <source src='videos/cheetah/vic/curriculum/mode44.mp4' type='video/mp4'>
+Your browser does not support the video tag.
+</video><video width='320' height='240' controls autoplay loop>
+  <source src='videos/cheetah/vic/curriculum/mode3.mp4' type='video/mp4'>
+Your browser does not support the video tag.
+</video>
+<video width='320' height='240' controls autoplay loop>
+  <source src='videos/cheetah/vic/curriculum/mode33.mp4' type='video/mp4'>
+Your browser does not support the video tag.
+</video><video width='320' height='240' controls autoplay loop>
+  <source src='videos/cheetah/vic/curriculum/mode63.mp4' type='video/mp4'>
+Your browser does not support the video tag.
+</video><video width='320' height='240' controls autoplay loop>
+  <source src='videos/cheetah/vic/curriculum/mode13.mp4' type='video/mp4'>
+Your browser does not support the video tag.
+</video>
+<video width='320' height='240' controls autoplay loop>
+  <source src='videos/cheetah/vic/curriculum/mode17.mp4' type='video/mp4'>
+Your browser does not support the video tag.
+</video>
+</center>
+</div>

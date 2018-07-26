@@ -1,0 +1,40 @@
+<div id='ant-valor-curriculum' class='tab-pane fade in'>
+  <h3>Ant, VALOR, Curriculum</h3>
+  <p>Options trained with curriculum context distribution:<p>
+<center>
+<video width='320' height='240' controls autoplay loop>
+  <source src='videos/ant/valor/curriculum/mode23.mp4' type='video/mp4'>
+Your browser does not support the video tag.
+</video><video width='320' height='240' controls autoplay loop>
+  <source src='videos/ant/valor/curriculum/mode32.mp4' type='video/mp4'>
+Your browser does not support the video tag.
+</video><video width='320' height='240' controls autoplay loop>
+  <source src='videos/ant/valor/curriculum/mode22.mp4' type='video/mp4'>
+Your browser does not support the video tag.
+</video>
+<video width='320' height='240' controls autoplay loop>
+  <source src='videos/ant/valor/curriculum/mode47.mp4' type='video/mp4'>
+Your browser does not support the video tag.
+</video><video width='320' height='240' controls autoplay loop>
+  <source src='videos/ant/valor/curriculum/mode43.mp4' type='video/mp4'>
+Your browser does not support the video tag.
+</video><video width='320' height='240' controls autoplay loop>
+  <source src='videos/ant/valor/curriculum/mode34.mp4' type='video/mp4'>
+Your browser does not support the video tag.
+</video>
+<video width='320' height='240' controls autoplay loop>
+  <source src='videos/ant/valor/curriculum/mode0.mp4' type='video/mp4'>
+Your browser does not support the video tag.
+</video><video width='320' height='240' controls autoplay loop>
+  <source src='videos/ant/valor/curriculum/mode18.mp4' type='video/mp4'>
+Your browser does not support the video tag.
+</video><video width='320' height='240' controls autoplay loop>
+  <source src='videos/ant/valor/curriculum/mode33.mp4' type='video/mp4'>
+Your browser does not support the video tag.
+</video>
+<video width='320' height='240' controls autoplay loop>
+  <source src='videos/ant/valor/curriculum/mode9.mp4' type='video/mp4'>
+Your browser does not support the video tag.
+</video>
+</center>
+</div>

@@ -1,0 +1,40 @@
+<div id='cheetah-vic-categorical' class='tab-pane fade in'>
+  <h3>Cheetah, VIC, Categorical</h3>
+  <p>Options trained with categorical context distribution:<p>
+<center>
+<video width='320' height='240' controls autoplay loop>
+  <source src='videos/cheetah/vic/categorical/mode42.mp4' type='video/mp4'>
+Your browser does not support the video tag.
+</video><video width='320' height='240' controls autoplay loop>
+  <source src='videos/cheetah/vic/categorical/mode4.mp4' type='video/mp4'>
+Your browser does not support the video tag.
+</video><video width='320' height='240' controls autoplay loop>
+  <source src='videos/cheetah/vic/categorical/mode7.mp4' type='video/mp4'>
+Your browser does not support the video tag.
+</video>
+<video width='320' height='240' controls autoplay loop>
+  <source src='videos/cheetah/vic/categorical/mode61.mp4' type='video/mp4'>
+Your browser does not support the video tag.
+</video><video width='320' height='240' controls autoplay loop>
+  <source src='videos/cheetah/vic/categorical/mode57.mp4' type='video/mp4'>
+Your browser does not support the video tag.
+</video><video width='320' height='240' controls autoplay loop>
+  <source src='videos/cheetah/vic/categorical/mode37.mp4' type='video/mp4'>
+Your browser does not support the video tag.
+</video>
+<video width='320' height='240' controls autoplay loop>
+  <source src='videos/cheetah/vic/categorical/mode21.mp4' type='video/mp4'>
+Your browser does not support the video tag.
+</video><video width='320' height='240' controls autoplay loop>
+  <source src='videos/cheetah/vic/categorical/mode15.mp4' type='video/mp4'>
+Your browser does not support the video tag.
+</video><video width='320' height='240' controls autoplay loop>
+  <source src='videos/cheetah/vic/categorical/mode62.mp4' type='video/mp4'>
+Your browser does not support the video tag.
+</video>
+<video width='320' height='240' controls autoplay loop>
+  <source src='videos/cheetah/vic/categorical/mode20.mp4' type='video/mp4'>
+Your browser does not support the video tag.
+</video>
+</center>
+</div>

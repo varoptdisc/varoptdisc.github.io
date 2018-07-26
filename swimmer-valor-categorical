@@ -1,0 +1,40 @@
+<div id='swimmer-valor-categorical' class='tab-pane fade in'>
+  <h3>Swimmer, VALOR, Categorical</h3>
+  <p>Options trained with categorical context distribution:<p>
+<center>
+<video width='320' height='240' controls autoplay loop>
+  <source src='videos/swimmer/valor/categorical/mode49.mp4' type='video/mp4'>
+Your browser does not support the video tag.
+</video><video width='320' height='240' controls autoplay loop>
+  <source src='videos/swimmer/valor/categorical/mode8.mp4' type='video/mp4'>
+Your browser does not support the video tag.
+</video><video width='320' height='240' controls autoplay loop>
+  <source src='videos/swimmer/valor/categorical/mode31.mp4' type='video/mp4'>
+Your browser does not support the video tag.
+</video>
+<video width='320' height='240' controls autoplay loop>
+  <source src='videos/swimmer/valor/categorical/mode47.mp4' type='video/mp4'>
+Your browser does not support the video tag.
+</video><video width='320' height='240' controls autoplay loop>
+  <source src='videos/swimmer/valor/categorical/mode30.mp4' type='video/mp4'>
+Your browser does not support the video tag.
+</video><video width='320' height='240' controls autoplay loop>
+  <source src='videos/swimmer/valor/categorical/mode37.mp4' type='video/mp4'>
+Your browser does not support the video tag.
+</video>
+<video width='320' height='240' controls autoplay loop>
+  <source src='videos/swimmer/valor/categorical/mode39.mp4' type='video/mp4'>
+Your browser does not support the video tag.
+</video><video width='320' height='240' controls autoplay loop>
+  <source src='videos/swimmer/valor/categorical/mode55.mp4' type='video/mp4'>
+Your browser does not support the video tag.
+</video><video width='320' height='240' controls autoplay loop>
+  <source src='videos/swimmer/valor/categorical/mode16.mp4' type='video/mp4'>
+Your browser does not support the video tag.
+</video>
+<video width='320' height='240' controls autoplay loop>
+  <source src='videos/swimmer/valor/categorical/mode13.mp4' type='video/mp4'>
+Your browser does not support the video tag.
+</video>
+</center>
+</div>

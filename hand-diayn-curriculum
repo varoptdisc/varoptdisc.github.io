@@ -1,0 +1,40 @@
+<div id='hand-diayn-curriculum' class='tab-pane fade in'>
+  <h3>Hand, DIAYN, Curriculum</h3>
+  <p>Options trained with curriculum context distribution:<p>
+<center>
+<video width='320' height='240' controls autoplay loop>
+  <source src='videos/hand/diayn/mode10.mp4' type='video/mp4'>
+Your browser does not support the video tag.
+</video><video width='320' height='240' controls autoplay loop>
+  <source src='videos/hand/diayn/mode4.mp4' type='video/mp4'>
+Your browser does not support the video tag.
+</video><video width='320' height='240' controls autoplay loop>
+  <source src='videos/hand/diayn/mode26.mp4' type='video/mp4'>
+Your browser does not support the video tag.
+</video>
+<video width='320' height='240' controls autoplay loop>
+  <source src='videos/hand/diayn/mode25.mp4' type='video/mp4'>
+Your browser does not support the video tag.
+</video><video width='320' height='240' controls autoplay loop>
+  <source src='videos/hand/diayn/mode32.mp4' type='video/mp4'>
+Your browser does not support the video tag.
+</video><video width='320' height='240' controls autoplay loop>
+  <source src='videos/hand/diayn/mode47.mp4' type='video/mp4'>
+Your browser does not support the video tag.
+</video>
+<video width='320' height='240' controls autoplay loop>
+  <source src='videos/hand/diayn/mode28.mp4' type='video/mp4'>
+Your browser does not support the video tag.
+</video><video width='320' height='240' controls autoplay loop>
+  <source src='videos/hand/diayn/mode19.mp4' type='video/mp4'>
+Your browser does not support the video tag.
+</video><video width='320' height='240' controls autoplay loop>
+  <source src='videos/hand/diayn/mode6.mp4' type='video/mp4'>
+Your browser does not support the video tag.
+</video>
+<video width='320' height='240' controls autoplay loop>
+  <source src='videos/hand/diayn/mode60.mp4' type='video/mp4'>
+Your browser does not support the video tag.
+</video>
+</center>
+</div>

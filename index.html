@@ -1,0 +1,83 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Variational Option Discovery Algorithms</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  <script>
+  function change_contents(loadpath){
+          $("#home").load(loadpath);
+      }
+  </script>
+</head>
+<body>
+
+
+
+<div class="container">
+  <h2>Variational Option Discovery Algorithms</h2>
+  <p>To see videos of modes from a specific algorithm in a specific environment, explore the menu below.</p>
+
+  <ul class="nav nav-tabs">
+    <li class='dropdown'>
+      <a class='dropdown-toggle' data-toggle='dropdown' href='#'>Ant <span class='caret'></span></a>
+      <ul class='dropdown-menu'>
+        <li><a data-toggle='tab' onclick=change_contents('ant-valor-categorical')>VALOR, Categorical</a></li>
+        <li><a data-toggle='tab' onclick=change_contents('ant-valor-curriculum')>VALOR, Curriculum</a></li>
+        <li><a data-toggle='tab' onclick=change_contents('ant-vic-categorical')>VIC, Categorical</a></li>
+        <li><a data-toggle='tab' onclick=change_contents('ant-vic-curriculum')>VIC, Curriculum</a></li>
+        <li><a data-toggle='tab' onclick=change_contents('ant-diayn-categorical')>DIAYN, Categorical</a></li>
+        <li><a data-toggle='tab' onclick=change_contents('ant-diayn-curriculum')>DIAYN, Curriculum</a></li>
+      </ul>
+    </li>
+    <li class='dropdown'>
+      <a class='dropdown-toggle' data-toggle='dropdown' href='#'>Cheetah <span class='caret'></span></a>
+      <ul class='dropdown-menu'>
+        <li><a data-toggle='tab' onclick=change_contents('cheetah-valor-categorical')>VALOR, Categorical</a></li>
+        <li><a data-toggle='tab' onclick=change_contents('cheetah-valor-curriculum')>VALOR, Curriculum</a></li>
+        <li><a data-toggle='tab' onclick=change_contents('cheetah-vic-categorical')>VIC, Categorical</a></li>
+        <li><a data-toggle='tab' onclick=change_contents('cheetah-vic-curriculum')>VIC, Curriculum</a></li>
+        <li><a data-toggle='tab' onclick=change_contents('cheetah-diayn-categorical')>DIAYN, Categorical</a></li>
+        <li><a data-toggle='tab' onclick=change_contents('cheetah-diayn-curriculum')>DIAYN, Curriculum</a></li>
+      </ul>
+    </li>
+    <li class='dropdown'>
+      <a class='dropdown-toggle' data-toggle='dropdown' href='#'>Hand <span class='caret'></span></a>
+      <ul class='dropdown-menu'>
+        <li><a data-toggle='tab' onclick=change_contents('hand-valor-curriculum')>VALOR, Curriculum</a></li>
+        <li><a data-toggle='tab' onclick=change_contents('hand-vic-curriculum')>VIC, Curriculum</a></li>
+        <li><a data-toggle='tab' onclick=change_contents('hand-diayn-curriculum')>DIAYN, Curriculum</a></li>
+      </ul>
+    </li>
+    <li class='dropdown'>
+      <a class='dropdown-toggle' data-toggle='dropdown' href='#'>Swimmer <span class='caret'></span></a>
+      <ul class='dropdown-menu'>
+        <li><a data-toggle='tab' onclick=change_contents('swimmer-valor-categorical')>VALOR, Categorical</a></li>
+        <li><a data-toggle='tab' onclick=change_contents('swimmer-valor-curriculum')>VALOR, Curriculum</a></li>
+        <li><a data-toggle='tab' onclick=change_contents('swimmer-vic-categorical')>VIC, Categorical</a></li>
+        <li><a data-toggle='tab' onclick=change_contents('swimmer-vic-curriculum')>VIC, Curriculum</a></li>
+        <li><a data-toggle='tab' onclick=change_contents('swimmer-diayn-categorical')>DIAYN, Categorical</a></li>
+        <li><a data-toggle='tab' onclick=change_contents('swimmer-diayn-curriculum')>DIAYN, Curriculum</a></li>
+      </ul>
+    </li>
+
+  </ul>
+
+  <div class="tab-content">
+
+
+    <div id="home" class="tab-pane fade in active">
+
+    </div>
+
+  </div>
+
+</div>
+
+
+</body>
+</html>

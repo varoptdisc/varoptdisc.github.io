@@ -1,0 +1,40 @@
+<div id='ant-valor-categorical' class='tab-pane fade in'>
+  <h3>Ant, VALOR, Categorical</h3>
+  <p>Options trained with categorical context distribution:<p>
+<center>
+<video width='320' height='240' controls autoplay loop>
+  <source src='videos/ant/valor/categorical/mode25.mp4' type='video/mp4'>
+Your browser does not support the video tag.
+</video><video width='320' height='240' controls autoplay loop>
+  <source src='videos/ant/valor/categorical/mode48.mp4' type='video/mp4'>
+Your browser does not support the video tag.
+</video><video width='320' height='240' controls autoplay loop>
+  <source src='videos/ant/valor/categorical/mode56.mp4' type='video/mp4'>
+Your browser does not support the video tag.
+</video>
+<video width='320' height='240' controls autoplay loop>
+  <source src='videos/ant/valor/categorical/mode43.mp4' type='video/mp4'>
+Your browser does not support the video tag.
+</video><video width='320' height='240' controls autoplay loop>
+  <source src='videos/ant/valor/categorical/mode1.mp4' type='video/mp4'>
+Your browser does not support the video tag.
+</video><video width='320' height='240' controls autoplay loop>
+  <source src='videos/ant/valor/categorical/mode41.mp4' type='video/mp4'>
+Your browser does not support the video tag.
+</video>
+<video width='320' height='240' controls autoplay loop>
+  <source src='videos/ant/valor/categorical/mode0.mp4' type='video/mp4'>
+Your browser does not support the video tag.
+</video><video width='320' height='240' controls autoplay loop>
+  <source src='videos/ant/valor/categorical/mode3.mp4' type='video/mp4'>
+Your browser does not support the video tag.
+</video><video width='320' height='240' controls autoplay loop>
+  <source src='videos/ant/valor/categorical/mode60.mp4' type='video/mp4'>
+Your browser does not support the video tag.
+</video>
+<video width='320' height='240' controls autoplay loop>
+  <source src='videos/ant/valor/categorical/mode17.mp4' type='video/mp4'>
+Your browser does not support the video tag.
+</video>
+</center>
+</div>

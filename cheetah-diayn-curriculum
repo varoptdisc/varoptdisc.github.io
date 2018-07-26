@@ -1,0 +1,40 @@
+<div id='cheetah-diayn-curriculum' class='tab-pane fade in'>
+  <h3>Cheetah, DIAYN, Curriculum</h3>
+  <p>Options trained with curriculum context distribution:<p>
+<center>
+<video width='320' height='240' controls autoplay loop>
+  <source src='videos/cheetah/diayn/curriculum/mode10.mp4' type='video/mp4'>
+Your browser does not support the video tag.
+</video><video width='320' height='240' controls autoplay loop>
+  <source src='videos/cheetah/diayn/curriculum/mode2.mp4' type='video/mp4'>
+Your browser does not support the video tag.
+</video><video width='320' height='240' controls autoplay loop>
+  <source src='videos/cheetah/diayn/curriculum/mode25.mp4' type='video/mp4'>
+Your browser does not support the video tag.
+</video>
+<video width='320' height='240' controls autoplay loop>
+  <source src='videos/cheetah/diayn/curriculum/mode32.mp4' type='video/mp4'>
+Your browser does not support the video tag.
+</video><video width='320' height='240' controls autoplay loop>
+  <source src='videos/cheetah/diayn/curriculum/mode38.mp4' type='video/mp4'>
+Your browser does not support the video tag.
+</video><video width='320' height='240' controls autoplay loop>
+  <source src='videos/cheetah/diayn/curriculum/mode61.mp4' type='video/mp4'>
+Your browser does not support the video tag.
+</video>
+<video width='320' height='240' controls autoplay loop>
+  <source src='videos/cheetah/diayn/curriculum/mode12.mp4' type='video/mp4'>
+Your browser does not support the video tag.
+</video><video width='320' height='240' controls autoplay loop>
+  <source src='videos/cheetah/diayn/curriculum/mode35.mp4' type='video/mp4'>
+Your browser does not support the video tag.
+</video><video width='320' height='240' controls autoplay loop>
+  <source src='videos/cheetah/diayn/curriculum/mode30.mp4' type='video/mp4'>
+Your browser does not support the video tag.
+</video>
+<video width='320' height='240' controls autoplay loop>
+  <source src='videos/cheetah/diayn/curriculum/mode0.mp4' type='video/mp4'>
+Your browser does not support the video tag.
+</video>
+</center>
+</div>
